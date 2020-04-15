@@ -1,0 +1,19 @@
+{
+  "name": "knjigav5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knjigaV5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitrije1997/Vezba5.git"
+  },
+  "author": "NRT-31/17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitrije1997/Vezba5/issues"
+  },
+  "homepage": "https://github.com/Dimitrije1997/Vezba5#readme"
+}

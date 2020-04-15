@@ -1,0 +1,22 @@
+{
+  "name": "vezba-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testKnjiga.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitrije1997/Vezba5.git"
+  },
+  "author": "NRT-31/17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitrije1997/Vezba5/issues"
+  },
+  "homepage": "https://github.com/Dimitrije1997/Vezba5#readme",
+  "dependencies": {
+    "knjigafunkcijev5": "file:knjigaFunkcijeV5"
+  }
+}
